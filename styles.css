@@ -1,0 +1,35 @@
+body {
+  background-color: #a3c9c7;
+}
+h1 {
+  margin: 50px auto;
+  text-align: center;
+  color: #cb7575;
+  text-transform: uppercase;
+}
+
+input {
+  margin: 100px auto;
+  width: 400px;
+  height: 50px;
+  display: block;
+  text-align: center;
+}
+
+#output {
+  margin: 45px auto;
+  width: 100px;
+  text-align: center;
+}
+
+#btn {
+  width: 400px;
+  height: 100px;
+  border-style: none;
+  border-radius: 15px;
+  margin: 100px auto;
+  display: block;
+  background-color: #cb7575;
+  color: #353848;
+  text-transform: uppercase;
+}
